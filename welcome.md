@@ -1,1 +1,0 @@
-# Full Stack Development (FSD) – College Codes  This repository contains all my **Full Stack Development (FSD)** programs, practice files, and mini-projects done as part of my **college coursework**.  The purpose of this repo is to: - Practice full stack concepts - Maintain all college-related FSD code in one place - Track my learning progress over time  ---
